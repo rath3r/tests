@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/tests/!svn/ver/7/trunk
+END
+phpinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/tests/!svn/ver/4/trunk/phpinfo.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/tests/!svn/ver/4/trunk/index.php
+END
